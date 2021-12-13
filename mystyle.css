@@ -30,3 +30,20 @@
    background-repeat: no-repeat;
    background-position: center center;
 }
+
+.gfg {
+	margin: 3%;
+	position: relative;
+}
+
+.first-txt {
+	position: absolute;
+	top: 17px;
+	left: 20px;
+}
+
+.second-txt {
+	position: absolute;
+	top: 17px;
+	left: 150px;
+}
